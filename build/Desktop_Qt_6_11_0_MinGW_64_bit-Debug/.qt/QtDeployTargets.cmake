@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_QtCpp-02-EnhancedFilterCameraApplication_FILE C:/Users/siddh/OneDrive/Documents/QtProjects/QtCpp-02-EnhancedFilterCameraApplication/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/QtCpp-02-EnhancedFilterCameraApplication.exe)
+set(__QT_DEPLOY_TARGET_QtCpp-02-EnhancedFilterCameraApplication_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_QtCpp-02-EnhancedFilterCameraApplication_RUNTIME_DLLS C:/Qt/6.11.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Multimedia.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Concurrent.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)
