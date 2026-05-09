@@ -169,9 +169,12 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/32c32ccdbff4ae4def82c9db
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
@@ -179,10 +182,14 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/32c32ccdbff4ae4def82c9db
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlabel.h \
@@ -594,9 +601,12 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/main.cpp.obj: C:/Users/s
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
@@ -604,12 +614,16 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/main.cpp.obj: C:/Users/s
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlabel.h \
@@ -1021,9 +1035,12 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/mainwindow.cpp.obj: C:/U
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
@@ -1031,15 +1048,19 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/mainwindow.cpp.obj: C:/U
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMenuBar \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QStatusBar \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlabel.h \
@@ -1476,6 +1497,8 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h:
@@ -1776,9 +1799,13 @@ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera:
 
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice:
 
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
 
@@ -1787,6 +1814,10 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atom
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h:
 
@@ -1805,6 +1836,12 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel:
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
 
@@ -1861,8 +1898,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basi
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/QStatusBar:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
 

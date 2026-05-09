@@ -9,6 +9,7 @@
 #include<QCamera>
 #include<QMediaCaptureSession>
 #include<QVideoSink>
+#include<QCheckBox>
 
 
 QT_BEGIN_NAMESPACE
@@ -37,6 +38,7 @@ private:
     QMediaCaptureSession *session;
     QVideoSink *videoSink;
     QImage currentFrame;
+    QCheckBox *checkBox;
 
 };
 #endif // MAINWINDOW_H

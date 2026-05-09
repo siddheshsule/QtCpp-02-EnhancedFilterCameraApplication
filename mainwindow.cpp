@@ -26,6 +26,11 @@ MainWindow::MainWindow(QWidget *parent)
     videoLabel->setAlignment(Qt::AlignCenter);
 
     layout->addWidget(videoLabel);
+
+    checkBox = new QCheckBox("Black and White Mode");
+
+    layout->addWidget(checkBox);
+
     camera = new QCamera(cameraDevice, this);
     session = new QMediaCaptureSession();
     session->setCamera(camera);
@@ -38,7 +43,7 @@ MainWindow::MainWindow(QWidget *parent)
         cloneFrame.map(QVideoFrame::ReadOnly);
         QImage image = cloneFrame.toImage();
         cloneFrame.unmap();
-        currentFrame = image;
+        currentFrame = checkBox->isChecked() ? image.convertToFormat(QImage::Format_Grayscale8) : image;
         videoLabel->setPixmap(QPixmap::fromImage(currentFrame).scaled(videoLabel->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation));
     });
 

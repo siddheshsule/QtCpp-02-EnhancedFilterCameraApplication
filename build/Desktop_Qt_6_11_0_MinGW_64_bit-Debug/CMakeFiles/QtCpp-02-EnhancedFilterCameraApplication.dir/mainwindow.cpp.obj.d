@@ -414,6 +414,9 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/mainwindow.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
  C:/Users/siddh/OneDrive/Documents/QtProjects/QtCpp-02-EnhancedFilterCameraApplication/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/QtCpp-02-EnhancedFilterCameraApplication_autogen/include/ui_mainwindow.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \

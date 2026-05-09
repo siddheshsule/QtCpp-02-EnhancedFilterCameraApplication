@@ -175,10 +175,13 @@ C:/Users/siddh/OneDrive/Documents/QtProjects/QtCpp-02-EnhancedFilterCameraApplic
  mdp:C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h
+ mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout
+ mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h
+ mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlabel.h

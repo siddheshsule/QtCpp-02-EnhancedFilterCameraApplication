@@ -415,6 +415,9 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/32c32ccdbff4ae4def82c9db
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QCheckBox \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qcheckbox.h \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextcursor.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextformat.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qpen.h \
