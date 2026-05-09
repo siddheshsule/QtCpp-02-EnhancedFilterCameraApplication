@@ -410,6 +410,10 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/main.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession \
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication.h \

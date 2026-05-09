@@ -167,6 +167,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/32c32ccdbff4ae4def82c9db
   C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
@@ -580,6 +592,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/main.cpp.obj: C:/Users/s
   C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
@@ -995,6 +1019,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/mainwindow.cpp.obj: C:/U
   C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
@@ -1732,7 +1768,43 @@ C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
 
@@ -1770,8 +1842,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
@@ -1781,10 +1851,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allo
 C:/Qt/6.11.0/mingw_64/include/QtCore/qnativeinterface.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
 
@@ -1922,10 +1988,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vect
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono:
@@ -1953,8 +2015,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
 

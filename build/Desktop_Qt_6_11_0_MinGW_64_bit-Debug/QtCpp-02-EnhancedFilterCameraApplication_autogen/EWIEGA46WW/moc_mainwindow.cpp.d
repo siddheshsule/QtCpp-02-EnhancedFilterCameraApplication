@@ -160,9 +160,12 @@ C:/Users/siddh/OneDrive/Documents/QtProjects/QtCpp-02-EnhancedFilterCameraApplic
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaCaptureSession \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QVideoSink \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediacapturesession.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
@@ -170,6 +173,7 @@ C:/Users/siddh/OneDrive/Documents/QtProjects/QtCpp-02-EnhancedFilterCameraApplic
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h \
   C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideosink.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \

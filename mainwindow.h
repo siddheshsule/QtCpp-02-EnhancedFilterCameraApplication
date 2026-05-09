@@ -7,6 +7,8 @@
 #include <QCameraDevice>
 #include<QMediaDevices>
 #include<QCamera>
+#include<QMediaCaptureSession>
+#include<QVideoSink>
 
 
 QT_BEGIN_NAMESPACE
@@ -32,6 +34,9 @@ private:
     QLabel *videoLabel;
     QCameraDevice cameraDevice;
     QCamera *camera;
+    QMediaCaptureSession *session;
+    QVideoSink *videoSink;
+    QImage currentFrame;
 
 };
 #endif // MAINWINDOW_H

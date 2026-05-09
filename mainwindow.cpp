@@ -14,34 +14,39 @@ MainWindow::MainWindow(QWidget *parent)
     if(cameraDevice.isNull()) {
         QLabel *errorLabel = new QLabel("No Camera Available!");
         errorLabel->setAlignment(Qt::AlignCenter);
-
         layout->addWidget(errorLabel);
-
         setCentralWidget(centralWidget);
         resize(700,600);
-
         return;
-
     }
 
-
     videoLabel = new QLabel("Camera Feed");
-
     videoLabel->setMaximumSize(640,488);
     videoLabel->setStyleSheet("background-color: white");
     videoLabel->setAlignment(Qt::AlignCenter);
 
     layout->addWidget(videoLabel);
-
     camera = new QCamera(cameraDevice, this);
+    session = new QMediaCaptureSession();
+    session->setCamera(camera);
+
+    videoSink = new QVideoSink();
+    session->setVideoSink(videoSink);
+    QObject::connect(videoSink,&QVideoSink::videoFrameChanged, [&](const QVideoFrame &frame) {
+        if(!frame.isValid()) return;
+        QVideoFrame cloneFrame(frame);
+        cloneFrame.map(QVideoFrame::ReadOnly);
+        QImage image = cloneFrame.toImage();
+        cloneFrame.unmap();
+        currentFrame = image;
+        videoLabel->setPixmap(QPixmap::fromImage(currentFrame).scaled(videoLabel->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation));
+    });
+
     camera->start();
-
     centralWidget->setLayout(layout);
-
     this->setCentralWidget(centralWidget);
     this->setWindowTitle("Camera App");
     this->resize(700,600);
-
 }
 
 MainWindow::~MainWindow()

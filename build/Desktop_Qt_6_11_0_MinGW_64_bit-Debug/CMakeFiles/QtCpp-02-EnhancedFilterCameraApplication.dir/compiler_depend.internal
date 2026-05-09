@@ -168,6 +168,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/32c32ccdbff4ae4def82c9db
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout
@@ -582,6 +594,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/main.cpp.obj
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow
@@ -998,6 +1022,18 @@ CMakeFiles/QtCpp-02-EnhancedFilterCameraApplication.dir/mainwindow.cpp.obj
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCamera
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QCameraDevice
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/QMediaDevices
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcamera.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qcameradevice.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qmediadevices.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimedia-config.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaexports.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtmultimediaglobal.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qtvideo.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframe.h
+ C:/Qt/6.11.0/mingw_64/include/QtMultimedia/qvideoframeformat.h
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLabel
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow
