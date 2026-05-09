@@ -10,7 +10,10 @@
 #include<QMediaCaptureSession>
 #include<QVideoSink>
 #include<QCheckBox>
-
+#include<QPushButton>
+#include<QImageCapture>
+#include<QFileDialog>
+#include <QMessageBox>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -39,6 +42,9 @@ private:
     QVideoSink *videoSink;
     QImage currentFrame;
     QCheckBox *checkBox;
+    QPushButton *captureButton;
+    QImageCapture *imageCapture;
+
 
 };
 #endif // MAINWINDOW_H

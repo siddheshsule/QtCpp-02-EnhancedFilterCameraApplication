@@ -30,6 +30,9 @@ MainWindow::MainWindow(QWidget *parent)
     checkBox = new QCheckBox("Black and White Mode");
 
     layout->addWidget(checkBox);
+    captureButton = new QPushButton("Capture");
+
+    layout->addWidget(captureButton);
 
     camera = new QCamera(cameraDevice, this);
     session = new QMediaCaptureSession();
@@ -37,6 +40,10 @@ MainWindow::MainWindow(QWidget *parent)
 
     videoSink = new QVideoSink();
     session->setVideoSink(videoSink);
+
+    imageCapture = new QImageCapture();
+    session->setImageCapture(imageCapture);
+
     QObject::connect(videoSink,&QVideoSink::videoFrameChanged, [&](const QVideoFrame &frame) {
         if(!frame.isValid()) return;
         QVideoFrame cloneFrame(frame);
@@ -46,6 +53,39 @@ MainWindow::MainWindow(QWidget *parent)
         currentFrame = checkBox->isChecked() ? image.convertToFormat(QImage::Format_Grayscale8) : image;
         videoLabel->setPixmap(QPixmap::fromImage(currentFrame).scaled(videoLabel->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation));
     });
+
+    QObject::connect(captureButton,
+                     &QPushButton::clicked,
+                     this,
+                     [&]()
+                     {
+                         if (currentFrame.isNull()) {
+                             QMessageBox::warning(this, "Error", "No frame available!");
+                             return;
+                         }
+
+                         QString path = QFileDialog::getSaveFileName(
+                             this,
+                             "Save Image",
+                             QDir::homePath() + "/image.png",
+                             "PNG Files (*.png);;JPEG Files (*.jpg *.jpeg)");
+
+                         if (path.isEmpty())
+                             return;
+
+                         bool saved = currentFrame.save(path);
+
+                         if (!saved) {
+                             QMessageBox::critical(this,
+                                                   "Save Failed",
+                                                   "Could not save the image.");
+                         } else {
+                             QMessageBox::information(this,
+                                                      "Saved",
+                                                      "Image saved successfully!");
+                         }
+                     });
+
 
     camera->start();
     centralWidget->setLayout(layout);
